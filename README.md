@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection-from-MRI-Images--VGG
+# Brain-Tumor-Detection-from-MRI-Images
 A CNN model was built that would classifyif subject has a tumor or not base on MRI scan.
 
 
